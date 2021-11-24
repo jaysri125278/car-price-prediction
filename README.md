@@ -2,7 +2,7 @@
 
 ## Table of contents
 
- * [App link](#App Link)
+ * [App link](#Applink)
  * [Overview](#Overview)
  * [Dataset](#Dataset)
  * [Demo](#Demo)
