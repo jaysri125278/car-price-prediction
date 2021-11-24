@@ -1,7 +1,11 @@
-# car-price-prediction
+# Flight Fare Prediction: 
 
-##Table of contents
-
+## Table of Content
   * [Demo](#demo)
-  * [overview](#overview)
-
+  * [Overview](#overview)
+  * [Motivation](#motivation)
+  * [Installation](#installation)
+  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Directory Tree](#directory-tree)
+  * [Bug / Feature Request](#bug---feature-request)
+  * [Future scope of project](#future-scope)
