@@ -22,4 +22,5 @@ Dataset link: [car data.csv](https://www.kaggle.com/nehalbirla/vehicle-dataset-f
 
 ## Demo
 Demo for car price prediction web app
+![demo](readme_source/car-demo.mp4)
 
