@@ -19,3 +19,7 @@ app link:[https://car-sellinprice.herokuapp.com/predict](https://car-sellinprice
 ## Dataset
 The dataset which is provided by cardekho.com available in Kaggle.<br />
 Dataset link: [car data.csv](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+
+## Demo
+Demo for car price prediction web app
+
