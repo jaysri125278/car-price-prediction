@@ -5,7 +5,6 @@
  * [Overview](#Overview)
  * [App link](#app-link)
  * [Dataset](#Dataset)
- * [Demo](#Demo)
  * [Installation](#Installation)
 
 
@@ -20,7 +19,8 @@ app link:[https://car-sellinprice.herokuapp.com/predict](https://car-sellinprice
 The dataset which is provided by cardekho.com available in Kaggle.<br />
 Dataset link: [car data.csv](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
-## Demo
-Demo for car price prediction web app
-![demo](readme_source/car-demo.mp4)
-
+## Installation
+To install the required packages and libraries, run this command on the project directory after cloning the repository:
+```bash
+pip install -r requirements.txt
+```
