@@ -13,7 +13,7 @@ Car price prediction is a Flask web app which predicts the selling price of the 
 
 ## App Link
 You can view the web app which is deployed on heroku<br />
-app link:[https://car-sellinprice.herokuapp.com/predict](https://car-sellinprice.herokuapp.com/predict)
+app link:[https://car-sellinprice.herokuapp.com](https://car-sellinprice.herokuapp.com)
 
 ## Dataset
 The dataset which is provided by cardekho.com available in Kaggle.<br />
