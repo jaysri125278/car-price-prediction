@@ -24,3 +24,6 @@ To install the required packages and libraries, run this command on the project 
 ```bash
 pip install -r requirements.txt
 ```
+##Blog post
+You can find the detailed explanation of the project here: 
+[Blog post link](https://medium.com/@jaysrisaravanan/predicting-selling-price-of-car-using-machine-learning-e2f7b60a519e)
